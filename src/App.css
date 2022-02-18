@@ -1,0 +1,47 @@
+* {
+  font-family: Raleway, sans-serif;
+}
+section.main {
+  margin-top: 10%;
+  padding: 3%;
+  border: 1px solid #ccc;
+  width: 67%;
+}
+.imge {
+  display: flex;
+}
+.ring {
+  border: 1px solid black;
+  border-radius: 170px;
+  width: 15%;
+}
+img.images {
+  width: 72%;
+  height: 16vh;
+  margin-top: 21%;
+  margin-left: 15%;
+}
+h1.name {
+  font-size: 40px;
+}
+h3.details {
+  font-size: 20px;
+  font-weight: 100;
+  color: #ccc;
+}
+.contents {
+  padding-left: 5%;
+}
+button {
+  width: 10%;
+  height: 6vh;
+  margin-left: 14%;
+  font-size: 10vh;
+  border: none;
+  background-color: white;
+  float: right;
+  position: relative;
+}
+li {
+  list-style-type: none;
+}
